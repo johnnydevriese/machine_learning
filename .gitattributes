@@ -1,0 +1,4 @@
+*.filetype !text !filter !merge !diff
+*.pdf !text !filter !merge !diff
+code/*.pt !text !filter !merge !diff
+code/*.bin !text !filter !merge !diff
