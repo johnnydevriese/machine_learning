@@ -1,1 +1,79 @@
 Repo of resources for learning Machine Learning 
+
+
+# Courses 
+
+Not an exhaustive list, but a list of courses that I like. 
+
+<img src="https://cs229.stanford.edu/static/seal-dark-red.png" width="200px">
+
+## Stanford - Machine Learning - CS229 
+Course Description   This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
+
+[course website](https://cs229.stanford.edu/)
+
+## Stanford - Natural Language Processing with Deep Learning - CS224n 
+
+Natural language processing (NLP) or computational linguistics is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in language: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, politics, etc. In the last decade, deep learning (or neural network) approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering. In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP. Through lectures, assignments and a final project, students will learn the necessary skills to design, implement, and understand their own neural network models, using the Pytorch framework.
+
+Note: 2019 lectures by Anand Avati are better and have review of concepts for first lectures.
+
+[course website](https://web.stanford.edu/class/cs224n/)
+
+
+## Stanford - Deep Learning for Computer Vision - CS231n
+
+Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into the details of deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement and train their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. Additionally, the final assignment will give them the opportunity to train and apply multi-million parameter networks on real-world vision problems of their choice. Through multiple hands-on assignments and the final course project, students will acquire the toolset for setting up deep learning tasks and practical engineering tricks for training and fine-tuning deep neural networks.
+
+[course website](http://cs231n.stanford.edu/)
+
+
+<img src="https://arc-hum.princeton.edu/sites/arc_hum/files/news/princeton-logo_1.png" width="200px">
+
+[Overview of AI/ML courses](https://aiml.cs.princeton.edu/course.html)
+
+## Princeton - Computer Vision - COS 429
+
+An introduction to the concepts of 2D and 3D computer vision. Topics include: low-level image processing methods such as filtering and edge detection; segmentation and clustering; optical flow and tracking; recognition; shape reconstruction from stereo, motion, texture, and shading; and recent developments in deep learning. Throughout the course, we also look at aspects of human vision and perception that guide and inspire computer vision techniques.
+
+https://www.cs.princeton.edu/courses/archive/fall19/cos429/
+
+
+<img src="https://pbs.twimg.com/profile_images/1411313611746811907/XfR22S8o_400x400.jpg" width="200px">
+
+## UW - Madison - Introduction to Machine Learning and Statistical Pattern Classification - STAT 451
+
+Introduction to machine learning for pattern classification, regression analysis, clustering, and dimensionality reduction. For each category, fundamental algorithms, as well as selections of contemporary, current state-of-the-art algorithms, are being discussed. The evaluation of machine learning models using statistical methods is a particular focus of this course. Statistical pattern classification approaches, including maximum likelihood estimation and Bayesian decision theory, are compared and contrasted to algorithmic and nonparametric approaches. While fundamental mathematical concepts underlying machine learning and pattern classification algorithms are being taught, the practical use of machine learning algorithms using open source libraries from the Python programming ecosystem will be of equal focus in this course.
+
+[course website](https://sebastianraschka.com/teaching/stat451-fs2021/)
+[youtube playlist](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MIT_Seal.svg/1200px-MIT_Seal.svg.png" width="200px">
+
+## MIT - Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - MATH 18.065
+
+Linear algebra concepts are key for understanding and creating machine learning algorithms, especially as applied to deep learning and neural networks. This course reviews linear algebra with applications to probability and statistics and optimization–and above all a full explanation of deep learning.
+
+Taught by Gil Strang! - Also 💙 the intro linear algebra course with Strang 
+
+[OCW link](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+
+## MIT - Distributed Systems - CS 6.824
+
+6.824 is a core 12-unit graduate subject with lectures, readings, programming labs, an optional project, a mid-term exam, and a final exam. It will present abstractions and implementation techniques for engineering distributed systems. Major topics include fault tolerance, replication, and consistency. Much of the class consists of studying and discussing case studies of distributed systems.
+
+[course website](https://pdos.csail.mit.edu/6.824/)
+
+## MIT - Introduction to Deep Learning - CS 6.S191 
+
+Pretty high level view of DL. 
+
+[youtube playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+
+
+
+
+
+
