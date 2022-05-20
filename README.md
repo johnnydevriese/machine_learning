@@ -27,6 +27,14 @@ Computer Vision has become ubiquitous in our society, with applications in searc
 
 [course website](http://cs231n.stanford.edu/)
 
+## Stanford - Introduction to Statistical Learning - STAT216
+
+Overview of supervised learning, with a focus on regression and classification methods. Syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; Some unsupervised learning: principal components and clustering (k-means and hierarchical). Computing is done in R, through tutorial sessions and homework assignments. This math-light course is offered via video segments (MOOC style), and in-class problem solving sessions. Prerequisites: first courses in statistics, linear algebra, and computing.
+
+[Tibshirani Course website - 2018](https://tibshirani.su.domains/stats216.html)
+[awesome ISLR course videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+
+
 
 <img src="https://arc-hum.princeton.edu/sites/arc_hum/files/news/princeton-logo_1.png" width="200px">
 
@@ -71,8 +79,14 @@ Pretty high level view of DL.
 
 [youtube playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
+<img src="https://cdn5.euraxess.org/sites/default/files/news/eth_1.png" width="200px">
 
+## ETH Zurich - Digital Design and Computer Architecture
 
+The class provides a first introduction to the design of digital circuits and computer architecture. It covers technical foundations of how a computing platform is designed from the bottom up. It introduces various execution paradigms, hardware description languages, and principles in digital design and computer architecture. The focus is on fundamental techniques employed in the design of modern microprocessors and their hardware/software interface.
+
+[course website](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=start)
+[YouTube Playlist](https://www.youtube.com/watch?v=LbC0EZY8yw4&list=PL4YhK0pT0ZhXVMJMffEq_XqAIQM_uWSdi)
 
 
 
