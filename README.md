@@ -88,6 +88,13 @@ The class provides a first introduction to the design of digital circuits and co
 [course website](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=start)
 [YouTube Playlist](https://www.youtube.com/watch?v=LbC0EZY8yw4&list=PL4YhK0pT0ZhXVMJMffEq_XqAIQM_uWSdi)
 
+<img src="https://ai.google/static/images/share.png" width="200px">
 
+## Google Machine Learning Crash Course 
+
+Nice quick and easy overview ML topics.
+
+
+[course website](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 
