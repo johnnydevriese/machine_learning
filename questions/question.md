@@ -47,7 +47,9 @@ you would have to check that they are multiples of one another.
 
 You would have to row reduce to see how many dimensions you're left with! 
 
-6.1 What's a norm? $L_1, L_2, L_{norm}?
+6.1 What's a norm? $L_1, L_2, L_{norm}$?
+
+
 
 6.2 How do norm and metric differ? Given a norm, make a metric. Given a metric, can we make a norm?
 
