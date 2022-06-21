@@ -22,10 +22,12 @@ When vectors are orthogonal $ \cos{90} = 1$ and when they are in the same direct
 
 2.2 Given two vectors $a=[3,2,1]$ and $b=[−1,0,1]$. Calculate the outer product $a^{T}b$?
 
-returns a matrix of \mathbb{R}^{n x n}
+returns a matrix of $\mathbb{R}^{n x n}$
 
 $$
-outer\ product:\ {\bf a}\otimes {\bf b}\\ \hspace{50px}{\bf a}\otimes {\bf b} =\normalsize{\left(\begin{array}\\ a_1\\ a_2\\\vdots\\a_i\\\end{array}\right)} \otimes \normalsize{\left(\begin{array}\\ b_1\\ b_2\\\vdots\\b_j\\\end{array}\right)}^{\normalsize t} =\normalsize {\left[\begin{array}\\ a_{\small 1}b_{\small 1}& a_{\small 1}b_{\small 2}& \cdots& a_{\small 1}b_{\small j}\\ a_{\small 2}b_{\small 1}& a_{\small 2}b_{\small 2}& \cdots& a_{\small 2}b_{\small j}\\ \vdots& \vdots& \ddots& \vdots\\ a_{\small i}b_{\small 1}& a_{\small i}b_{\small 2}& \cdots& a_{\small i}b_{\small j}\\\end{array}\right]} =\large {\bf C}\\
+
+outer \product:\ {\bf a}\otimes {\bf b}\\ \hspace{50px}{\bf a}\otimes {\bf b} =\normalsize{\left(\begin{array}\\ a_1\\ a_2\\\vdots\\a_i\\\end{array}\right)} \otimes \normalsize{\left(\begin{array}\\ b_1\\ b_2\\\vdots\\b_j\\\end{array}\right)}^{\normalsize t} =\normalsize {\left[\begin{array}\\ a_{\small 1}b_{\small 1}& a_{\small 1}b_{\small 2}& \cdots& a_{\small 1}b_{\small j}\\ a_{\small 2}b_{\small 1}& a_{\small 2}b_{\small 2}& \cdots& a_{\small 2}b_{\small j}\\ \vdots& \vdots& \ddots& \vdots\\ a_{\small i}b_{\small 1}& a_{\small i}b_{\small 2}& \cdots& a_{\small i}b_{\small j}\\\end{array}\right]} =\large {\bf C}\\
+
 $$
 
 2.2 Give an example of how the outer product can be useful in ML.
