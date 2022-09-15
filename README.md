@@ -1,9 +1,4 @@
-Repo of resources for learning Machine Learning 
-
-
 # Courses 
-
-Not an exhaustive list, but a list of courses that I like. 
 
 <img src="https://cs229.stanford.edu/static/seal-dark-red.png" width="200px">
 
@@ -46,6 +41,19 @@ An introduction to the concepts of 2D and 3D computer vision. Topics include: lo
 
 https://www.cs.princeton.edu/courses/archive/fall19/cos429/
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Seal_of_the_University_of_Michigan.svg/320px-Seal_of_the_University_of_Michigan.svg.png?1663207811796" width="200px">
+
+
+## University of Michigan - Deep Learning for Computer Vision - EECS 498.008 / 598.008
+
+
+Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification and object detection. Recent developments in neural network approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of neural-network based deep learning methods for computer vision. During this course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. We will cover learning algorithms, neural network architectures, and practical engineering tricks for training and fine-tuning networks for visual recognition tasks. 
+
+Excellent course and essentially an updated version of Stanford CS231n. 
+
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+
+[Course Website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/University_of_Wisconsin_seal.svg/640px-University_of_Wisconsin_seal.svg.png?1663207698837" width="200px">
 
@@ -54,7 +62,10 @@ https://www.cs.princeton.edu/courses/archive/fall19/cos429/
 Introduction to machine learning for pattern classification, regression analysis, clustering, and dimensionality reduction. For each category, fundamental algorithms, as well as selections of contemporary, current state-of-the-art algorithms, are being discussed. The evaluation of machine learning models using statistical methods is a particular focus of this course. Statistical pattern classification approaches, including maximum likelihood estimation and Bayesian decision theory, are compared and contrasted to algorithmic and nonparametric approaches. While fundamental mathematical concepts underlying machine learning and pattern classification algorithms are being taught, the practical use of machine learning algorithms using open source libraries from the Python programming ecosystem will be of equal focus in this course.
 
 [course website](https://sebastianraschka.com/teaching/stat451-fs2021/)
+
 [youtube playlist](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
+
+Sebastian also has an excellent textbook [info](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html) 
 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MIT_Seal.svg/1200px-MIT_Seal.svg.png" width="200px">
