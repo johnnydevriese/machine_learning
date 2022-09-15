@@ -36,7 +36,7 @@ Overview of supervised learning, with a focus on regression and classification m
 
 
 
-<img src="https://arc-hum.princeton.edu/sites/arc_hum/files/news/princeton-logo_1.png" width="200px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Princeton_seal.svg/320px-Princeton_seal.svg.png?1663207635322" width="200px">
 
 [Overview of AI/ML courses](https://aiml.cs.princeton.edu/course.html)
 
@@ -47,7 +47,7 @@ An introduction to the concepts of 2D and 3D computer vision. Topics include: lo
 https://www.cs.princeton.edu/courses/archive/fall19/cos429/
 
 
-<img src="https://pbs.twimg.com/profile_images/1411313611746811907/XfR22S8o_400x400.jpg" width="200px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/University_of_Wisconsin_seal.svg/640px-University_of_Wisconsin_seal.svg.png?1663207698837" width="200px">
 
 ## UW - Madison - Introduction to Machine Learning and Statistical Pattern Classification - STAT 451
 
