@@ -113,8 +113,10 @@ Handling missing data can make selection bias worse because different methods im
 * [E] Why is it hard for ML models to perform well on data with class imbalance?
 * [M] Imagine you want to build a model to detect skin legions from images. In your training dataset, only 1% of your images shows signs of legions. After training, your model seems to make a lot more false negatives than false positives. What are some of the techniques you'd use to improve your model?
 
+Because the model will just learn to predict one type disproportionately. 
 
 
+https://stats.stackexchange.com/questions/283170/when-is-unbalanced-data-really-a-problem-in-machine-learning
 
 
 
