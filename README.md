@@ -101,6 +101,12 @@ The class provides a first introduction to the design of digital circuits and co
 
 <img src="https://ai.google/static/images/share.png" width="200px">
 
+## UC Berkely - Advanced Robotics - CS 287
+
+Over the past ten years advances in optimization, in probabilistic reasoning, and in machine learning have had a large impact in robotics, with many of the current state-of-the-art algorithms heavily relying on these tools. At the same time these three tools have wide applicability in many other fields. The current curriculum of CS287 is centered around these three tools---making it both a treatment of these tools (in the context of a specific application domain, namely robotics), as well as a treatment of the state of the art in (algorithmic) robotics. Problem sets are a mix of mathematical/algorithmic questions and programming problems. There is a substantial final project. NOTE: This course is about algorithms for robotics, and does *not* cover hardware aspects. PREREQS: Familiarity with mathematical proofs, probability, algorithms, linear algebra; ability to implement algorithmic ideas in code. 
+
+[course website](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+
 ## Google Machine Learning Crash Course 
 
 Nice quick and easy overview ML topics.
