@@ -99,7 +99,7 @@ The class provides a first introduction to the design of digital circuits and co
 [course website](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=start)
 [YouTube Playlist](https://www.youtube.com/watch?v=LbC0EZY8yw4&list=PL4YhK0pT0ZhXVMJMffEq_XqAIQM_uWSdi)
 
-<img src="https://ai.google/static/images/share.png" width="200px">
+<img src="https://bair.berkeley.edu/images/BAIR_Logo_BlueType_Tag.png" width="200px"> 
 
 ## UC Berkely - Advanced Robotics - CS 287
 
@@ -107,6 +107,7 @@ Over the past ten years advances in optimization, in probabilistic reasoning, an
 
 [course website](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
+<img src="https://ai.google/static/images/share.png" width="200px">
 ## Google Machine Learning Crash Course 
 
 Nice quick and easy overview ML topics.
