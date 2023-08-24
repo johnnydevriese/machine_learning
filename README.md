@@ -108,6 +108,7 @@ Over the past ten years advances in optimization, in probabilistic reasoning, an
 [course website](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
 <img src="https://ai.google/static/images/share.png" width="200px">
+
 ## Google Machine Learning Crash Course 
 
 Nice quick and easy overview ML topics.
