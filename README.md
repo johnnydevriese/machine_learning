@@ -107,6 +107,14 @@ Over the past ten years advances in optimization, in probabilistic reasoning, an
 
 [course website](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
+<img src="https://cmu-multicomp-lab.github.io/mmml-course/assets/img/cmu-logo.png" width="200px"> 
+
+## Carnegie Mellon University - MultiModal Machine Learning - 11-777 • Fall 2022 
+
+Multimodal machine learning (MMML) is a vibrant multi-disciplinary research field which addresses some of the original goals of artificial intelligence by integrating and modeling multiple communicative modalities, including linguistic, acoustic, and visual messages. With the initial research on audio-visual speech recognition and more recently with language & vision projects such as image and video captioning, this research field brings some unique challenges for multimodal researchers given the heterogeneity of the data and the contingency often found between modalities. This course will teach fundamental mathematical concepts related to MMML including multimodal alignment and fusion, heterogeneous representation learning and multi-stream temporal modeling. We will also review recent papers describing state-of-the-art probabilistic models and computational algorithms for MMML and discuss the current and upcoming challenges.
+
+[course website](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/)
+
 <img src="https://ai.google/static/images/share.png" width="200px">
 
 ## Google Machine Learning Crash Course 
