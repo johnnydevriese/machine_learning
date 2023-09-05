@@ -1,6 +1,7 @@
 # Courses 
 
-<img src="https://cs229.stanford.edu/static/seal-dark-red.png" width="200px">
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Stanford_University.png" width="200px">
+
 
 ## Stanford - Machine Learning - CS229 
 Course Description   This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
@@ -29,6 +30,16 @@ Overview of supervised learning, with a focus on regression and classification m
 [Tibshirani Course website - 2018](https://tibshirani.su.domains/stats216.html)
 [awesome ISLR course videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
+## Stanford - Machine Learning Systems Design - CS 329S
+
+This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
+
+It starts by considering all stakeholders of each machine learning project and their objectives. Different objectives require different design choices, and this course will discuss the tradeoffs of those choices.
+
+Students will learn about data management, data engineering, feature engineering, approaches to model selection, training, scaling, how to continually monitor and deploy changes to ML systems, as well as the human side of ML projects such as team structure and business metrics. In the process, students will learn about important issues including privacy, fairness, and security.
+
+
+[course website](https://stanford-cs329s.github.io/syllabus.html)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Princeton_seal.svg/320px-Princeton_seal.svg.png?1663207635322" width="200px">
