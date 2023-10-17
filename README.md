@@ -126,6 +126,16 @@ Multimodal machine learning (MMML) is a vibrant multi-disciplinary research fiel
 
 [course website](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/)
 
+<img src="https://logos-world.net/wp-content/uploads/2022/01/University-of-Washington-Symbol.png" width="200px">
+
+## University of Washington 
+
+Welcome to the Computer Vision course (CSE/ECE 576, Spring 2020)
+
+This class is a general introduction to computer vision. It covers standard techniques in image processing like filtering, edge detection, stereo, flow, etc. (old-school vision), as well as newer, machine-learning based computer vision.
+
+[course website](https://courses.cs.washington.edu/courses/cse576/20sp/)
+
 <img src="https://ai.google/static/images/share.png" width="200px">
 
 ## Google Machine Learning Crash Course 
