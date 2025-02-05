@@ -1,3 +1,17 @@
+BoostedTree.pdf filter=lfs diff=lfs merge=lfs -text
+machine-learning-yearning.pdf filter=lfs diff=lfs merge=lfs -text
+mml-book.pdf filter=lfs diff=lfs merge=lfs -text
+gcp_intro_ml_slides.pdf filter=lfs diff=lfs merge=lfs -text
+matrixcookbook.pdf filter=lfs diff=lfs merge=lfs -text
+probability_cheatsheet.pdf filter=lfs diff=lfs merge=lfs -text
+Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf filter=lfs diff=lfs merge=lfs -text
+cs229_linear_algebra_review.pdf filter=lfs diff=lfs merge=lfs -text
+cs229_probability_review.pdf filter=lfs diff=lfs merge=lfs -text
+michigan_cs498/*.pdf filter=lfs diff=lfs merge=lfs -text
+code/data/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+code/*.csv filter=lfs diff=lfs merge=lfs -text
+code/*.bin filter=lfs diff=lfs merge=lfs -text
+code/*.pt filter=lfs diff=lfs merge=lfs -text
 *.filetype !text !filter !merge !diff
 *.pdf !text !filter !merge !diff
 code/*.pt !text !filter !merge !diff
