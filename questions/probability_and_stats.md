@@ -72,14 +72,43 @@ probably have to marginalize out probability
 
 $P(X) = $
 
-12. [M] You know that your colleague Jason has two children and one of them is a boy. What’s the probability that Jason has two sons? Hint: it’s not $$\frac{1}{2}$$.
-13. There are only two electronic chip manufacturers: A and B, both manufacture the same amount of chips. A makes defective chips with a probability of 30%, while B makes defective chips with a probability of 70%.
-	1. [E] If you randomly pick a chip from the store, what is the probability that it is defective?
-	1. [M] Suppose you now get two chips coming from the same company, but you don’t know which one. When you test the first chip, it appears to be functioning. What is the probability that the second electronic chip is also good?
-14. There’s a rare disease that only 1 in 10000 people get. Scientists have developed a test to diagnose the disease with the false positive rate and false negative rate of 1%.
+> 12. [M] You know that your colleague Jason has two children and one of them is a boy. What’s the probability that Jason has two sons? Hint: it’s not $$\frac{1}{2}$$.
+
+$P(two sons | has one son) $
+
+of possible combinations the probability of having 2 boys is still 1/4. 
+
+> 13. There are only two electronic chip manufacturers: A and B, both manufacture the same amount of chips. A makes defective chips with a probability of 30%, while B makes defective chips with a probability of 70%.
+
+$P(defective | random chip) = 30\% $ 
+$P(defective | random chip) = 70\% $ 
+
+> 1. [E] If you randomly pick a chip from the store, what is the probability that it is defective?
+
+Joint probability of A *and* B with 30% and 70%. 
+
+for example (maybe):
+30/100 + 70/100 = 100/200 = 1/2 probability of defective chip 
+
+> 1. [M] Suppose you now get two chips coming from the same company, but you don’t know which one. When you test the first chip, it appears to be functioning. What is the probability that the second electronic chip is also good?
+
+
+> 14. There’s a rare disease that only 1 in 10000 people get. Scientists have developed a test to diagnose the disease with the false positive rate and false negative rate of 1%.
 	1. [E] Given a person is diagnosed positive, what’s the probability that this person actually has the disease?
 	1. [M] What’s the probability that a person has the disease if two independent tests both come back positive?
-15. [M] A dating site allows users to select 10 out of 50 adjectives to describe themselves. Two users are said to match if they share at least 5 adjectives. If Jack and Jin randomly pick adjectives, what is the probability that they match?
+
+
+TP = 1/10,000 FP= 1/100 FN = 1/100 
+$P(actually positive | positive test)$
+
+learn how to apply bayes rule better. 
+
+
+> 15. [M] A dating site allows users to select 10 out of 50 adjectives to describe themselves. Two users are said to match if they share at least 5 adjectives. If Jack and Jin randomly pick adjectives, what is the probability that they match?
+
+10/50 adjectives & match is 5 adjectives 
+
+
 16. [M] Consider a person A whose sex we don’t know. We know that for the general human height, there are two distributions: the height of males follows $$h_m = N(\mu_m, \sigma_m^2)$$ and the height of females follows $$h_j = N(\mu_j, \sigma_j^2)$$ . Derive a probability density function to describe A’s height.
 17. [H] There are three weather apps, each the probability of being wrong ⅓ of the time. What’s the probability that it will be foggy in San Francisco tomorrow if all the apps predict that it’s going to be foggy in San Francisco tomorrow and during this time of the year, San Francisco is foggy 50% of the time?
 	
