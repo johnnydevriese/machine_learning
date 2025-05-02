@@ -31,6 +31,18 @@ Computer Vision has become ubiquitous in our society, with applications in searc
 
 [course website](http://cs231n.stanford.edu/)
 
+## Stanford -- CS336: Language Modeling from Scratch
+
+Language models serve as the cornerstone of modern natural language processing (NLP) applications and open up a new paradigm of having a single general purpose system address a range of downstream tasks. As the field of artificial intelligence (AI), machine learning (ML), and NLP continues to grow, possessing a deep understanding of language models becomes essential for scientists and engineers alike. This course is designed to provide students with a comprehensive understanding of language models by walking them through the entire process of developing their own. Drawing inspiration from operating systems courses that create an entire operating system from scratch, we will lead students through every aspect of language model creation, including data collection and cleaning for pre-training, transformer model construction, model training, and evaluation before deployment. 
+
+[course website](https://stanford-cs336.github.io/spring2025/index.html)
+
+## Stanford -- CS 324 - Advances in Foundation Models
+
+Foundation models (FMs) are models (e.g., DALL-E, GPT-3, Stable Diffusion) that are trained on large amounts of broad data and are adaptable to a wide range of downstream tasks. They form the basis of all state-of-the-art systems across a wide range of tasks and have shown impressive generative and few-shot learning abilities. In this course, students will learn the fundamentals about the modeling, systems and ethical aspects of foundation models, as well as gain hands-on experience working with them. In addition, the course will feature speakers from industry working on these FMs. The key deliverable will be a quarter-long project through which students will design their own FM-based research project or application, targeting a problem they care about.
+
+[course website](https://stanford-cs324.github.io/winter2023/)
+
 ## Stanford - Introduction to Statistical Learning - STAT216
 
 Overview of supervised learning, with a focus on regression and classification methods. Syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; Some unsupervised learning: principal components and clustering (k-means and hierarchical). Computing is done in R, through tutorial sessions and homework assignments. This math-light course is offered via video segments (MOOC style), and in-class problem solving sessions. Prerequisites: first courses in statistics, linear algebra, and computing.
