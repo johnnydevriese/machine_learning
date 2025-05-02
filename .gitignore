@@ -160,3 +160,8 @@ cython_debug/
 #.idea/
 .DS_Store
 .history
+*.pdf
+code/creditcard.csv
+code/data/cifar-10-python.tar.gz
+code/*.pt
+code/*.bin
