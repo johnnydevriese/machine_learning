@@ -66,6 +66,11 @@ Students will learn about data management, data engineering, feature engineering
 
 [Overview of AI/ML courses](https://aiml.cs.princeton.edu/course.html)
 
+## Stanford - NLP Book 
+
+[Jurafsky NLP](https://web.stanford.edu/~jurafsky/slp3/)
+
+
 ## Princeton - Computer Vision - COS 429
 
 An introduction to the concepts of 2D and 3D computer vision. Topics include: low-level image processing methods such as filtering and edge detection; segmentation and clustering; optical flow and tracking; recognition; shape reconstruction from stereo, motion, texture, and shading; and recent developments in deep learning. Throughout the course, we also look at aspects of human vision and perception that guide and inspire computer vision techniques.
@@ -86,7 +91,7 @@ Excellent course and essentially an updated version of Stanford CS231n.
 
 [Course Website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/University_of_Wisconsin_seal.svg/640px-University_of_Wisconsin_seal.svg.png?1663207698837" width="200px">
+<img src="https://brand.wisc.edu/content/uploads/2023/09/vert-w-crest-logo-web-digital-color.png" width="200px">
 
 ## UW - Madison - Introduction to Machine Learning and Statistical Pattern Classification - STAT 451
 
@@ -130,9 +135,9 @@ The class provides a first introduction to the design of digital circuits and co
 [course website](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=start)
 [YouTube Playlist](https://www.youtube.com/watch?v=LbC0EZY8yw4&list=PL4YhK0pT0ZhXVMJMffEq_XqAIQM_uWSdi)
 
-<img src="https://bair.berkeley.edu/images/BAIR_Logo_BlueType_Tag.png" width="200px"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="200px">
 
-## UC Berkely - Advanced Robotics - CS 287
+## UC Berkeley - Advanced Robotics - CS 287
 
 Over the past ten years advances in optimization, in probabilistic reasoning, and in machine learning have had a large impact in robotics, with many of the current state-of-the-art algorithms heavily relying on these tools. At the same time these three tools have wide applicability in many other fields. The current curriculum of CS287 is centered around these three tools---making it both a treatment of these tools (in the context of a specific application domain, namely robotics), as well as a treatment of the state of the art in (algorithmic) robotics. Problem sets are a mix of mathematical/algorithmic questions and programming problems. There is a substantial final project. NOTE: This course is about algorithms for robotics, and does *not* cover hardware aspects. PREREQS: Familiarity with mathematical proofs, probability, algorithms, linear algebra; ability to implement algorithmic ideas in code. 
 
