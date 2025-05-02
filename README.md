@@ -1,6 +1,7 @@
 # Courses 
 
-<img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Stanford_University.png" width="200px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Seal_of_Leland_Stanford_Junior_University.svg" width="200px">
+
 
 
 ## Stanford - Machine Learning - CS229 
