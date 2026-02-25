@@ -165,8 +165,3 @@ code/creditcard.csv
 code/data/cifar-10-python.tar.gz
 code/*.pt
 code/*.bin
-*.pdf
-code/creditcard.csv
-code/data/cifar-10-python.tar.gz
-code/*.pt
-code/*.bin
